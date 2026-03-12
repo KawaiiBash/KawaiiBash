@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=cba6f7&height=200&section=header&text=Hi,%20I'm%20Mr.%20Cat&fontSize=70&animation=fadeIn&fontColor=11111b" width="100%" />
-
   ## ⚡ Computerphile | Systems Explorer | Linux Enthusiast
   
   *“First understand the computer, then teach it to work for you.”*
