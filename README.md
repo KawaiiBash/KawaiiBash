@@ -34,6 +34,13 @@ I Am A Dedicated Technology Enthusiast With a Deep-Seated Passion For Understand
 * 🟣 **Mastering** ./Bash Shell-Scripting, Vim, Linux
 
 
+<div align="center">
+  <h3>☂️ Teck Stack</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,vim,git,github,archlinux,html,css,js&theme=dark" />
+</p>
+</div>
+
 <h3 align="center">👾 GitHub Analytics</h3>
 
 <div align="center">
