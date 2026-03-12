@@ -17,7 +17,7 @@
 
 <h3 align="center">🔮 About Me</h3>
 
-I am a dedicated technology enthusiast with a deep-seated passion for understanding computing systems at their core. I focus on mastering **Bash** to build **efficient, automated workflows** that enhance productivity and system performance.
+I Am A Dedicated Technology Enthusiast With a Deep-Seated Passion For Understanding Computing Systems At Their Core. I Focus On Mastering **Bash** To Build **Efficient, Automated Workflows** That Enhance Productivity And System Performance.
 
 * 🟣 **Focusing on:** System Internals & Workflow Optimization.
 * 🟣 **Goal:** *Optimizing operations through technical automation.*
