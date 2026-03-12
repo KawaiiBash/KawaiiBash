@@ -44,7 +44,3 @@ I am a dedicated technology enthusiast with a deep-seated passion for understand
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />
 </div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=7aa2f7&height=50&section=footer" width="100%" />
-</div>
