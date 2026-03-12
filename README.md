@@ -47,7 +47,7 @@
 ### 🌌 Random Dev Quote
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight&hide_border=true&visitcount.itsvg.in/api?id=TuxFanz&icon=0&color=0&visitcount.itsvg.in" />
   
   > "When in doubt, leave it out."  
   > *— Joshua Bloch*
