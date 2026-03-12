@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="assets/1.gif" width="280" alt="Header GIF" loading="eager" />
+
+  ![Header GIF](assets/1.gif)
+
+  <br />
 </div>
 
 <div align="center">
