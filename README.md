@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=cba6f7&height=200&section=footer&text=TuxFanz&fontSize=70&desc=Linux%20Enthusiast&descSize=20&fontColor=11111b&revers=true" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=cba6f7&height=200&section=footer&text=TuxFanz&fontSize=70&fontColor=11111b&animation=twinkle" width="100%" />
 </div>
 
 <div align="center">
