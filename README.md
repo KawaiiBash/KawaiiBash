@@ -3,14 +3,6 @@
   <br><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=cba6f7&center=true&vCenter=true&width=500&lines=Computerphile;Systems+Explorer;Linux+Enthusiast;BashScripting;Code+And+Programming" alt="Typing SVG" />
 
-
-<p align="center">
-  <br />
-  <kbd><b>“First understand the computer, then teach it to work for you.”</b></kbd>
-  <br />
-</p>
-
-
 <!--
   <p align="center">
     <em>“First understand the computer, then teach it to work for you.”</em>
@@ -27,6 +19,11 @@ I Am A Dedicated Technology Enthusiast With a Deep-Seated Passion For Understand
 * 🟣 **Objective:** *Optimizing Operations Through Technical Automation, And Help Solve Problem of People Related to My Skills*
 * 🟣 **Mastering:** ./Bash Shell-Scripting, Vim, Linux
 
+<p align="center">
+  <br />
+  <kbd><b>“First understand the computer, then teach it to work for you.”</b></kbd>
+  <br />
+</p>
 
 <div align="center">
   <h3>☂️ Teck Stack</h3>
