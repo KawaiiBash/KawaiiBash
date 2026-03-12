@@ -19,17 +19,23 @@ I am a dedicated technology enthusiast with a deep-seated passion for understand
 * 🚀 **Goal:** "Optimizing operations through technical automation".
 * 💬 **Ask me about:** Shell scripting, Vim motions, or why Arch is my daily driver.
 
----
-
 ### 📈 Contribution Graph
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TuxFanz&theme=green&bg_color=00000000&hide_border=true" width="100%" />
 </div>
 
 ### 📊 GitHub Analytics
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TuxFanz&theme=shadow_green&show_icons=true&count_private=true&hide_border=true" height="175px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuxFanz&layout=compact&theme=shadow_green&hide_border=true" height="175px" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuxFanz&theme=leafy&hide_border=true" width="100%" />
+</div>
+
+### 🌌 Daily Dev Inspiration
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" width="100%" />
 </div>
