@@ -42,7 +42,7 @@ I Am A Dedicated Technology Enthusiast With a Deep-Seated Passion For Understand
 <h3 align="center">👾 GitHub Analytics</h3>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TuxFanz&bg_color=11111b&color=cdd6f4&line=cba6f7&point=cba6f7&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KawaiiBash&bg_color=11111b&color=cdd6f4&line=cba6f7&point=cba6f7&area=true&hide_border=true" width="100%" />
 
   <br/>
 
