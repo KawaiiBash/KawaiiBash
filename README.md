@@ -2,6 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&pause=1000&color=cba6f7&center=true&vCenter=true&width=600&height=150&lines=TuxFanz;Systems+Explorer;Linux+Enthusiast" alt="Typing SVG" />
 </div>
 
+<div align="center">
   ## 💜 Computerphile | Systems Explorer | Linux Enthusiast
   *“First understand the computer, then teach it to work for you.”*
 
