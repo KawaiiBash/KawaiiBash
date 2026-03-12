@@ -25,17 +25,9 @@ I am a dedicated technology enthusiast with a deep-seated passion for understand
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <table border="0" style="border-collapse: collapse; border: none;">
-    <tr>
-      <td style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=TuxFanz&theme=dracula&show_icons=true&count_private=true&hide_border=true" height="170px" />
-      </td>
-      <td style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuxFanz&layout=compact&theme=dracula&hide_border=true" height="170px" />
-      </td>
-    </tr>
-  </table>
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=TuxFanz&theme=dracula&show_icons=true&count_private=true&hide_border=true" height="175px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuxFanz&layout=compact&theme=dracula&hide_border=true" height="175px" />
+  <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuxFanz&theme=dracula&hide_border=true" width="100%" />
 </div>
 
