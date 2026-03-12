@@ -33,6 +33,12 @@ I Am A Dedicated Technology Enthusiast With a Deep-Seated Passion For Understand
 * 🟣 **Objective** *Optimizing Operations Through Technical Automation, And Help Solve Problem of People Related to My Skills*
 * 🟣 **Mastering** ./Bash Shell-Scripting, Vim, Linux
 
+<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,vim,git,github,py,c,docker&theme=dark" />
+</p>
+</div>
+
 <h3 align="center">👾 GitHub Analytics</h3>
 
 <div align="center">
