@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=cba6f7&height=200&section=header&text=TuxFanz&fontSize=70&fontColor=11111b&animation=twinkle" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&pause=1000&color=cba6f7&center=true&vCenter=true&width=600&height=150&lines=TuxFanz;Systems+Explorer;Linux+Enthusiast" alt="Typing SVG" />
+</div>
 
   ## 💜 Computerphile | Systems Explorer | Linux Enthusiast
   *“First understand the computer, then teach it to work for you.”*
