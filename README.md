@@ -20,9 +20,9 @@
         I focus on mastering <code style="color: #40a02b;">Bash</code> to build <b>efficient, automated daily workflows</b> that enhance productivity and system performance.
       </p>
       <p>
-        🟢 <b>Focus:</b> System Internals & BashScripting & Linux/Unix <br>
-        🟢 <b>Objective:</b> Optimizing Operations Through Technical Automation, And Help Solve Problem of People Related to My Skills<br>
-        🟢 <b>Mastering:</b> Vim, Linux, Shell
+        🌵 <b>Focus:</b> System Internals & BashScripting & Linux/Unix <br>
+        🍃 <b>Objective:</b> Optimizing Operations Through Technical Automation, And Help Solve Problem of People Related to My Skills<br>
+        🍀 <b>Mastering:</b> Vim, Linux, Shell
       </p>
     </td>
   </tr>
