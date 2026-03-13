@@ -9,7 +9,7 @@
 <table align="center">
   <tr>
     <td width="25%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMc7wBVJFZisS9v6S0/giphy.gif" width="100%" style="border-radius: 10px;" />
+      <img src="Assets/Green.gif" width="100%" style="border-radius: 10px;" />
     </td>
     <td width="25%" valign="middle">
       <h3 style="color: #40a02b; margin-top: 0;">🌿 About Me</h3>
