@@ -9,7 +9,7 @@
 <table align="center">
   <tr>
     <td width="25%" align="center">
-      <img src="Assets/Green.gif" width="100%" style="border-radius: 10px;" />
+      <img src="Assets/Green.gif" width="40%" style="border-radius: 0px;" />
     </td>
     <td width="25%" valign="middle">
       <h3 style="color: #40a02b; margin-top: 0;">🌿 About Me</h3>
