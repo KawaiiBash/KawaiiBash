@@ -8,7 +8,7 @@
 
 <table align="center">
   <tr>
-    <td width="25%" align="center">
+    <td width="50%" align="center">
       <img src="Assets/Green.gif" width="40%" style="border-radius: 0px;" />
     </td>
     <td width="25%" valign="middle">
