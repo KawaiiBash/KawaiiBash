@@ -8,23 +8,25 @@
 
 <table align="center">
   <tr>
-    <td width="25%" align="center">
-      <img src="Assets/Green.gif" width="25%" style="border-radius: 0px;" />
+    <td width="30%" align="center">
+      <img src="Assets/Green.gif" 
+           width="180px" 
+           style="border-radius: 8px; border: 1px solid #40a02b;" />
     </td>
-    <td width="25%" valign="middle">
+    <td width="70%" valign="middle">
       <h3 style="color: #40a02b; margin-top: 0;">🌿 About Me</h3>
       <p>
         I am a dedicated <b>Technology Enthusiast</b> with a deep-seated passion for understanding computing systems at their core. 
         I focus on mastering <code style="color: #40a02b;">Bash</code> to build <b>efficient, automated daily workflows</b> that enhance productivity and system performance.
-        </td>
-    </tr>
-</table>
       </p>
       <p>
         🟢 <b>Focus:</b> System Internals & BashScripting & Linux/Unix <br>
-        🟢 <b>Objective:</b>Optimizing Operations Through Technical Automation, And Help Solve Problem of People Related to My Skills<br>
+        🟢 <b>Objective:</b> Optimizing Operations Through Technical Automation, And Help Solve Problem of People Related to My Skills<br>
         🟢 <b>Mastering:</b> Vim, Linux, Shell
       </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
