@@ -37,6 +37,8 @@
   </p>
 </div>
 
+---
+
 <div align="center">
   <h3>🌳 Tech Stack</h3>
   <p align="center">
@@ -49,6 +51,8 @@
     <img src="https://skillicons.dev/icons?i=linux,bash,vim,git,github,arch&theme=dark" />
   </p>
 </div>
+
+---
 
 <h3 align="center">🍃 GitHub Analytics</h3>
 
