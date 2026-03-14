@@ -12,7 +12,7 @@
            style="border-radius: 8px; border: 1px solid #87CEEB;" />
     </td>
     <td width="70%" valign="middle">
-      <h3 style="color: #87CEEB; margin-top: 0;">🔹 About Me</h3>
+      <h3 style="color: #87CEEB; margin-top: 0;">🐬 About Me</h3>
       <p>
         I am a dedicated <b>Technology Enthusiast</b> with a deep-seated passion for understanding computing systems at their core. 
         I focus on mastering <code style="color: #87CEEB;">Bash</code> to build <b>efficient, automated daily workflows</b> that enhance productivity and system performance.
